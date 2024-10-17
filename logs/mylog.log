@@ -1,0 +1,208 @@
+[INFO ] 2024-10-15 01:47:52.919 [main] MyStoreV1 - url opened
+[INFO ] 2024-10-15 01:47:52.935 [main] MyStoreV1 - VerifyLogin test case execution started....
+[INFO ] 2024-10-15 01:47:53.913 [main] MyStoreV1 - Clicked on sign in button
+[INFO ] 2024-10-15 01:47:54.052 [main] MyStoreV1 - entered email
+[INFO ] 2024-10-15 01:47:54.130 [main] MyStoreV1 - entered password
+[INFO ] 2024-10-15 01:47:55.115 [main] MyStoreV1 - Clicked on submit button
+[INFO ] 2024-10-15 01:47:55.149 [main] MyStoreV1 - verify login - passed
+[INFO ] 2024-10-15 01:49:04.486 [main] MyStoreV1 - url opened
+[INFO ] 2024-10-15 01:49:04.503 [main] MyStoreV1 - VerifyLogin test case execution started....
+[INFO ] 2024-10-15 01:49:12.354 [main] MyStoreV1 - Clicked on sign in button
+[INFO ] 2024-10-15 01:49:12.507 [main] MyStoreV1 - entered email
+[INFO ] 2024-10-15 01:49:12.598 [main] MyStoreV1 - entered password
+[INFO ] 2024-10-15 01:49:13.620 [main] MyStoreV1 - Clicked on submit button
+[INFO ] 2024-10-15 01:49:13.653 [main] MyStoreV1 - verify login - failed
+[INFO ] 2024-10-15 19:43:25.875 [main] MyStoreV1 - url opened
+[INFO ] 2024-10-15 19:43:26.766 [main] MyStoreV1 - VerifyLogin test case execution started....
+[INFO ] 2024-10-15 19:43:33.610 [main] MyStoreV1 - Clicked on sign in button
+[INFO ] 2024-10-15 19:43:33.714 [main] MyStoreV1 - entered email
+[INFO ] 2024-10-15 19:43:33.788 [main] MyStoreV1 - entered password
+[INFO ] 2024-10-15 19:43:34.403 [main] MyStoreV1 - Clicked on submit button
+[INFO ] 2024-10-15 19:43:44.513 [main] MyStoreV1 - VerifyLogin test case execution started....
+[INFO ] 2024-10-15 19:43:45.846 [main] MyStoreV1 - Clicked on sign in button
+[INFO ] 2024-10-15 19:43:45.949 [main] MyStoreV1 - entered email
+[INFO ] 2024-10-15 19:43:46.060 [main] MyStoreV1 - entered password
+[INFO ] 2024-10-15 19:43:46.855 [main] MyStoreV1 - Clicked on submit button
+[INFO ] 2024-10-15 21:58:07.602 [main] MyStoreV1 - url opened
+[INFO ] 2024-10-15 21:58:08.679 [main] MyStoreV1 - VerifyLogin test case execution started....
+[INFO ] 2024-10-15 21:58:15.494 [main] MyStoreV1 - Clicked on sign in button
+[INFO ] 2024-10-15 21:58:15.618 [main] MyStoreV1 - entered email
+[INFO ] 2024-10-15 21:58:15.725 [main] MyStoreV1 - entered password
+[INFO ] 2024-10-15 21:58:16.475 [main] MyStoreV1 - Clicked on submit button
+[INFO ] 2024-10-15 21:58:26.580 [main] MyStoreV1 - VerifyLogin test case execution started....
+[INFO ] 2024-10-15 21:58:27.532 [main] MyStoreV1 - Clicked on sign in button
+[INFO ] 2024-10-15 21:58:27.605 [main] MyStoreV1 - entered email
+[INFO ] 2024-10-15 21:58:27.673 [main] MyStoreV1 - entered password
+[INFO ] 2024-10-15 21:58:28.144 [main] MyStoreV1 - Clicked on submit button
+[INFO ] 2024-10-15 22:00:43.916 [main] MyStoreV1 - url opened
+[INFO ] 2024-10-15 22:00:44.756 [main] MyStoreV1 - VerifyLogin test case execution started....
+[INFO ] 2024-10-15 22:00:45.666 [main] MyStoreV1 - Clicked on sign in button
+[INFO ] 2024-10-15 22:00:45.768 [main] MyStoreV1 - entered email
+[INFO ] 2024-10-15 22:00:45.876 [main] MyStoreV1 - entered password
+[INFO ] 2024-10-15 22:00:46.409 [main] MyStoreV1 - Clicked on submit button
+[INFO ] 2024-10-15 22:01:29.623 [main] MyStoreV1 - url opened
+[INFO ] 2024-10-15 22:01:30.512 [main] MyStoreV1 - VerifyLogin test case execution started....
+[INFO ] 2024-10-15 22:01:31.431 [main] MyStoreV1 - Clicked on sign in button
+[INFO ] 2024-10-15 22:01:31.581 [main] MyStoreV1 - entered email
+[INFO ] 2024-10-15 22:01:31.694 [main] MyStoreV1 - entered password
+[INFO ] 2024-10-15 22:01:32.643 [main] MyStoreV1 - Clicked on submit button
+[INFO ] 2024-10-15 22:01:32.675 [main] MyStoreV1 - verify login - failed
+[INFO ] 2024-10-15 22:01:32.906 [main] MyStoreV1 - VerifyLogin test case execution started....
+[INFO ] 2024-10-15 22:02:30.749 [main] MyStoreV1 - url opened
+[INFO ] 2024-10-15 22:02:31.638 [main] MyStoreV1 - VerifyLogin test case execution started....
+[INFO ] 2024-10-15 22:02:32.567 [main] MyStoreV1 - Clicked on sign in button
+[INFO ] 2024-10-15 22:02:32.735 [main] MyStoreV1 - entered email
+[INFO ] 2024-10-15 22:02:32.851 [main] MyStoreV1 - entered password
+[INFO ] 2024-10-15 22:02:33.843 [main] MyStoreV1 - Clicked on submit button
+[INFO ] 2024-10-15 22:02:33.871 [main] MyStoreV1 - verify login - failed
+[INFO ] 2024-10-15 22:02:34.162 [main] MyStoreV1 - VerifyLogin test case execution started....
+[INFO ] 2024-10-15 22:04:12.331 [main] MyStoreV1 - url opened
+[INFO ] 2024-10-15 22:04:13.129 [main] MyStoreV1 - VerifyLogin test case execution started....
+[INFO ] 2024-10-15 22:04:19.322 [main] MyStoreV1 - Clicked on sign in button
+[INFO ] 2024-10-15 22:04:19.456 [main] MyStoreV1 - entered email
+[INFO ] 2024-10-15 22:04:19.568 [main] MyStoreV1 - entered password
+[INFO ] 2024-10-15 22:04:20.657 [main] MyStoreV1 - Clicked on submit button
+[INFO ] 2024-10-15 22:04:20.691 [main] MyStoreV1 - verify login - failed
+[INFO ] 2024-10-15 22:04:20.958 [main] MyStoreV1 - VerifyLogin test case execution started....
+[INFO ] 2024-10-15 22:09:32.715 [main] MyStoreV1 - url opened
+[INFO ] 2024-10-15 22:09:33.624 [main] MyStoreV1 - VerifyLogin test case execution started....
+[INFO ] 2024-10-15 22:09:34.654 [main] MyStoreV1 - Clicked on sign in button
+[INFO ] 2024-10-15 22:09:34.791 [main] MyStoreV1 - entered email
+[INFO ] 2024-10-15 22:09:34.899 [main] MyStoreV1 - entered password
+[INFO ] 2024-10-15 22:09:35.989 [main] MyStoreV1 - Clicked on submit button
+[INFO ] 2024-10-15 22:09:36.017 [main] MyStoreV1 - verify login - failed
+[INFO ] 2024-10-15 22:09:36.226 [main] MyStoreV1 - VerifyLogin test case execution started....
+[INFO ] 2024-10-15 22:11:12.342 [main] MyStoreV1 - url opened
+[INFO ] 2024-10-15 22:11:13.213 [main] MyStoreV1 - VerifyLogin test case execution started....
+[INFO ] 2024-10-15 22:11:14.304 [main] MyStoreV1 - Clicked on sign in button
+[INFO ] 2024-10-15 22:11:14.449 [main] MyStoreV1 - entered email
+[INFO ] 2024-10-15 22:11:14.553 [main] MyStoreV1 - entered password
+[INFO ] 2024-10-15 22:11:15.929 [main] MyStoreV1 - Clicked on submit button
+[INFO ] 2024-10-15 22:11:15.957 [main] MyStoreV1 - verify login - failed
+[INFO ] 2024-10-15 22:11:16.206 [main] MyStoreV1 - VerifyLogin test case execution started....
+[INFO ] 2024-10-15 22:12:31.305 [main] MyStoreV1 - url opened
+[INFO ] 2024-10-15 22:12:32.178 [main] MyStoreV1 - VerifyLogin test case execution started....
+[INFO ] 2024-10-15 22:12:33.259 [main] MyStoreV1 - Clicked on sign in button
+[INFO ] 2024-10-15 22:12:33.389 [main] MyStoreV1 - entered email
+[INFO ] 2024-10-15 22:12:33.491 [main] MyStoreV1 - entered password
+[INFO ] 2024-10-15 22:12:34.509 [main] MyStoreV1 - Clicked on submit button
+[INFO ] 2024-10-15 22:12:34.545 [main] MyStoreV1 - verify login - passed
+[INFO ] 2024-10-15 22:12:35.770 [main] MyStoreV1 - VerifyLogin test case execution started....
+[INFO ] 2024-10-15 22:12:36.798 [main] MyStoreV1 - Clicked on sign in button
+[INFO ] 2024-10-15 22:12:36.907 [main] MyStoreV1 - entered email
+[INFO ] 2024-10-15 22:12:36.999 [main] MyStoreV1 - entered password
+[INFO ] 2024-10-15 22:12:38.035 [main] MyStoreV1 - Clicked on submit button
+[INFO ] 2024-10-15 22:12:38.069 [main] MyStoreV1 - verify login - failed
+[INFO ] 2024-10-15 23:44:26.013 [main] MyStoreV1 - url opened
+[INFO ] 2024-10-15 23:44:27.189 [main] MyStoreV1 - VerifyLogin test case execution started....
+[INFO ] 2024-10-15 23:44:33.654 [main] MyStoreV1 - Clicked on sign in button
+[INFO ] 2024-10-15 23:44:33.790 [main] MyStoreV1 - entered email
+[INFO ] 2024-10-15 23:44:33.886 [main] MyStoreV1 - entered password
+[INFO ] 2024-10-15 23:44:35.129 [main] MyStoreV1 - Clicked on submit button
+[INFO ] 2024-10-15 23:44:35.163 [main] MyStoreV1 - verify login - passed
+[INFO ] 2024-10-15 23:44:37.225 [main] MyStoreV1 - VerifyLogin test case execution started....
+[INFO ] 2024-10-15 23:44:38.576 [main] MyStoreV1 - Clicked on sign in button
+[INFO ] 2024-10-15 23:44:38.717 [main] MyStoreV1 - entered email
+[INFO ] 2024-10-15 23:44:38.834 [main] MyStoreV1 - entered password
+[INFO ] 2024-10-15 23:44:40.394 [main] MyStoreV1 - Clicked on submit button
+[INFO ] 2024-10-15 23:44:40.424 [main] MyStoreV1 - verify login - failed
+[INFO ] 2024-10-16 00:03:47.647 [main] MyStoreV1 - url opened
+[INFO ] 2024-10-16 00:03:48.508 [main] MyStoreV1 - VerifyLogin test case execution started....
+[INFO ] 2024-10-16 00:03:49.457 [main] MyStoreV1 - Clicked on sign in button
+[INFO ] 2024-10-16 00:03:49.596 [main] MyStoreV1 - entered email
+[INFO ] 2024-10-16 00:03:49.696 [main] MyStoreV1 - entered password
+[INFO ] 2024-10-16 00:03:50.647 [main] MyStoreV1 - Clicked on submit button
+[INFO ] 2024-10-16 00:03:50.679 [main] MyStoreV1 - verify login - passed
+[INFO ] 2024-10-16 00:03:51.626 [main] MyStoreV1 - VerifyLogin test case execution started....
+[INFO ] 2024-10-16 00:03:52.367 [main] MyStoreV1 - Clicked on sign in button
+[INFO ] 2024-10-16 00:03:52.489 [main] MyStoreV1 - entered email
+[INFO ] 2024-10-16 00:03:52.579 [main] MyStoreV1 - entered password
+[INFO ] 2024-10-16 00:03:53.366 [main] MyStoreV1 - Clicked on submit button
+[INFO ] 2024-10-16 00:03:53.403 [main] MyStoreV1 - verify login - failed
+[INFO ] 2024-10-16 00:03:53.573 [main] MyStoreV1 - Closing url
+[INFO ] 2024-10-16 00:06:38.339 [main] MyStoreV1 - url opened
+[INFO ] 2024-10-16 00:06:39.165 [main] MyStoreV1 - VerifyLogin test case execution started....
+[INFO ] 2024-10-16 00:06:40.061 [main] MyStoreV1 - Clicked on sign in button
+[INFO ] 2024-10-16 00:06:40.207 [main] MyStoreV1 - entered email
+[INFO ] 2024-10-16 00:06:40.310 [main] MyStoreV1 - entered password
+[INFO ] 2024-10-16 00:06:41.306 [main] MyStoreV1 - Clicked on submit button
+[INFO ] 2024-10-16 00:06:41.337 [main] MyStoreV1 - verify login - passed
+[INFO ] 2024-10-16 00:06:42.294 [main] MyStoreV1 - VerifyLogin test case execution started....
+[INFO ] 2024-10-16 00:06:43.058 [main] MyStoreV1 - Clicked on sign in button
+[INFO ] 2024-10-16 00:06:43.170 [main] MyStoreV1 - entered email
+[INFO ] 2024-10-16 00:06:43.260 [main] MyStoreV1 - entered password
+[INFO ] 2024-10-16 00:06:43.991 [main] MyStoreV1 - Clicked on submit button
+[INFO ] 2024-10-16 00:06:44.013 [main] MyStoreV1 - verify login - failed
+[INFO ] 2024-10-16 00:09:34.344 [main] MyStoreV1 - url opened
+[INFO ] 2024-10-16 00:09:35.404 [main] MyStoreV1 - VerifyLogin test case execution started....
+[INFO ] 2024-10-16 00:09:36.328 [main] MyStoreV1 - Clicked on sign in button
+[INFO ] 2024-10-16 00:09:36.469 [main] MyStoreV1 - entered email
+[INFO ] 2024-10-16 00:09:36.582 [main] MyStoreV1 - entered password
+[INFO ] 2024-10-16 00:09:37.554 [main] MyStoreV1 - Clicked on submit button
+[INFO ] 2024-10-16 00:09:37.584 [main] MyStoreV1 - verify login - passed
+[INFO ] 2024-10-16 00:09:38.569 [main] MyStoreV1 - VerifyLogin test case execution started....
+[INFO ] 2024-10-16 00:09:39.214 [main] MyStoreV1 - Clicked on sign in button
+[INFO ] 2024-10-16 00:09:39.324 [main] MyStoreV1 - entered email
+[INFO ] 2024-10-16 00:09:39.409 [main] MyStoreV1 - entered password
+[INFO ] 2024-10-16 00:09:40.128 [main] MyStoreV1 - Clicked on submit button
+[INFO ] 2024-10-16 00:09:40.154 [main] MyStoreV1 - verify login - failed
+[INFO ] 2024-10-16 20:16:48.877 [main] MyStoreV1 - url opened
+[INFO ] 2024-10-16 20:16:48.893 [main] MyStoreV1 - VerifyLogin test case execution started....
+[INFO ] 2024-10-16 20:16:49.991 [main] MyStoreV1 - Clicked on sign in button
+[INFO ] 2024-10-16 20:16:50.135 [main] MyStoreV1 - entered email
+[INFO ] 2024-10-16 20:16:50.213 [main] MyStoreV1 - entered password
+[INFO ] 2024-10-16 20:16:50.271 [main] MyStoreV1 - Clicked on submit button
+[INFO ] 2024-10-16 20:17:00.364 [main] MyStoreV1 - Closing url
+[INFO ] 2024-10-16 20:17:08.070 [main] MyStoreV1 - url opened
+[INFO ] 2024-10-16 20:17:08.073 [main] MyStoreV1 - 
+***************TestCase Buy Product started*****************
+[INFO ] 2024-10-16 20:17:09.658 [main] MyStoreV1 - User Email and Password entered.
+[INFO ] 2024-10-16 20:17:12.220 [main] MyStoreV1 - Sign In link clicked
+[INFO ] 2024-10-16 20:17:12.292 [main] MyStoreV1 - T-shirt entered in search box
+[INFO ] 2024-10-16 20:17:14.176 [main] MyStoreV1 - clicked on search button
+[INFO ] 2024-10-16 20:17:17.697 [main] MyStoreV1 - Clicked on more button
+[INFO ] 2024-10-16 20:17:31.803 [main] MyStoreV1 - 
+***************TestCase Search Product started*****************
+[INFO ] 2024-10-16 20:17:41.819 [main] MyStoreV1 - 
+***************TestCase verifyAddToWishlistWithoutLogin started*****************
+[INFO ] 2024-10-16 20:17:53.908 [main] MyStoreV1 - Closing url
+[INFO ] 2024-10-16 20:37:57.838 [main] MyStoreV1 - url opened
+[INFO ] 2024-10-16 20:37:57.853 [main] MyStoreV1 - VerifyLogin test case execution started....
+[INFO ] 2024-10-16 20:37:58.863 [main] MyStoreV1 - Clicked on sign in button
+[INFO ] 2024-10-16 20:37:59.008 [main] MyStoreV1 - entered email
+[INFO ] 2024-10-16 20:37:59.089 [main] MyStoreV1 - entered password
+[INFO ] 2024-10-16 20:37:59.145 [main] MyStoreV1 - Clicked on submit button
+[INFO ] 2024-10-16 20:38:09.224 [main] MyStoreV1 - Closing url
+[INFO ] 2024-10-16 20:38:14.339 [main] MyStoreV1 - url opened
+[INFO ] 2024-10-16 20:38:14.341 [main] MyStoreV1 - 
+***************TestCase Buy Product started*****************
+[INFO ] 2024-10-16 20:38:25.426 [main] MyStoreV1 - User Email and Password entered.
+[INFO ] 2024-10-16 20:38:26.908 [main] MyStoreV1 - Sign In link clicked
+[INFO ] 2024-10-16 20:38:26.995 [main] MyStoreV1 - T-shirt entered in search box
+[INFO ] 2024-10-16 20:38:28.856 [main] MyStoreV1 - clicked on search button
+[INFO ] 2024-10-16 20:38:31.097 [main] MyStoreV1 - Clicked on more button
+[INFO ] 2024-10-16 20:38:45.213 [main] MyStoreV1 - 
+***************TestCase Search Product started*****************
+[INFO ] 2024-10-16 20:38:55.286 [main] MyStoreV1 - 
+***************TestCase verifyAddToWishlistWithoutLogin started*****************
+[INFO ] 2024-10-16 20:39:08.164 [main] MyStoreV1 - Closing url
+[INFO ] 2024-10-17 00:44:40.391 [main] MyStoreV1 - url opened
+[INFO ] 2024-10-17 00:44:40.407 [main] MyStoreV1 - VerifyLogin test case execution started....
+[INFO ] 2024-10-17 00:44:51.893 [main] MyStoreV1 - Clicked on sign in button
+[INFO ] 2024-10-17 00:44:52.028 [main] MyStoreV1 - entered email
+[INFO ] 2024-10-17 00:44:52.113 [main] MyStoreV1 - entered password
+[INFO ] 2024-10-17 00:44:52.175 [main] MyStoreV1 - Clicked on submit button
+[INFO ] 2024-10-17 00:45:02.229 [main] MyStoreV1 - Closing url
+[INFO ] 2024-10-17 00:45:10.415 [main] MyStoreV1 - url opened
+[INFO ] 2024-10-17 00:45:10.417 [main] MyStoreV1 - 
+***************TestCase Buy Product started*****************
+[INFO ] 2024-10-17 00:45:12.098 [main] MyStoreV1 - User Email and Password entered.
+[INFO ] 2024-10-17 00:45:13.979 [main] MyStoreV1 - Sign In link clicked
+[INFO ] 2024-10-17 00:45:14.058 [main] MyStoreV1 - T-shirt entered in search box
+[INFO ] 2024-10-17 00:45:15.792 [main] MyStoreV1 - clicked on search button
+[INFO ] 2024-10-17 00:45:17.901 [main] MyStoreV1 - Clicked on more button
+[INFO ] 2024-10-17 00:45:32.053 [main] MyStoreV1 - 
+***************TestCase Search Product started*****************
+[INFO ] 2024-10-17 00:45:42.121 [main] MyStoreV1 - 
+***************TestCase verifyAddToWishlistWithoutLogin started*****************
+[INFO ] 2024-10-17 00:45:54.876 [main] MyStoreV1 - Closing url
